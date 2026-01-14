@@ -40,12 +40,12 @@ MobileNet achieved the best balance between accuracy and computational efficienc
 ![Home Page](screenshots/homepage.PNG)
 
 ### Upload Page
-![Upload Page](screenshots/img_select.png)
+![Upload Page](screenshots/img_select.PNG)
 
 ### Prediction Result
-![Result](screenshots/MPox_detect.png)
-![Result](screenshots/MPox_detect2.png)
-![Result](screenshots/No_MPox.png)
+![Result](screenshots/MPox_detect.PNG)
+![Result](screenshots/MPox_detect2.PNG)
+![Result](screenshots/No_MPox.PNG)
 
 
 ## 🛠 Tech Stack
