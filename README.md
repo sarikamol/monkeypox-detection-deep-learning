@@ -34,6 +34,19 @@ MobileNet achieved the best balance between accuracy and computational efficienc
 - Built using Flask
 - Allows users to upload skin lesion images
 - Predicts whether the image indicates Monkeypox
+## 📸 Application Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Upload Page
+![Upload Page](screenshots/img_select.png)
+
+### Prediction Result
+![Result](screenshots/MPox_detect.png)
+![Result](screenshots/MPox_detect2.png)
+![Result](screenshots/No_MPox.png)
+
 
 ## 🛠 Tech Stack
 - Python
