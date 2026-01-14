@@ -37,7 +37,7 @@ MobileNet achieved the best balance between accuracy and computational efficienc
 ## 📸 Application Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/homepage.PNG)
 
 ### Upload Page
 ![Upload Page](screenshots/img_select.png)
